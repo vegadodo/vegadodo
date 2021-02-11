@@ -23,12 +23,19 @@ SNUCSE 19. I play bass. I code for fun (I guess).
 - Visual Studio Code
 - Git + PGP Key (for that shiny `Verified` badge)
 
-## Keyboard layouts I use
+## Keyboard layouts I used so far
 
-- `Colemak` (Have been using since 2020.)
-- `3-Set Korean` (Have been using since 2016.)
-- `Dvorak` (Currently trying to return to Dvorak.)
-- I originally changed my layout from `Qwerty` to `Dvorak` in 2016, then had used `Dvorak` until 2019. In 2019, due to issues related to shortcuts, I changed my layout back to `Qwerty` and used it until 2020. Then, in 2020 I converted to `Colemak`, and has been using it since.
+### Previously
+
+- `Qwerty`: -2016, 2019-2020
+- `Colemak`: 2020-2021
+- `2-Set Korean`: -2016
+
+### Currently
+
+- `Dvorak`: 2016-2019, 2021-
+- `3-Set Korean`: 2016-
+- I originally changed my layout from `Qwerty` to `Dvorak` in 2016, then had used `Dvorak` until 2019. In 2019, due to issues related to shortcuts, I changed my layout back to `Qwerty` and used it until 2020. Then, in 2020 I converted to `Colemak`, and have used it until 2021. In 2021, I changed back to `Dvorak` again.
 
 ## Programming languages (or that sort of things) I've used so far
 
