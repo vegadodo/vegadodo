@@ -20,13 +20,14 @@ SNUCSE 19. I play bass. I code for fun (I guess).
 ## Fun stuff about me
 
 - I was on a TV show ***[Infinite Challenge](https://youtu.be/YwTQexnpau8?t=321)*** when I was 11. You can see me talk right after the video starts, and do some quiz in the next round. My two younger brothers have also been on TV.
+- I modeled for promotional photos of HAFS (my high school) in 2017.
 - I starred in [***"Off Road Jam"*** MV](https://youtu.be/u6aKcFBRVxA), shot by my brother [seoulthesoloist](https://instagram.com/seoulthesoloist). It's a great song by [Mudd the student](https://instagram.com/muddthestudent), and you can see me in red hair.
 
 ## Boring stuff about me
 
-- Hankuk Academy of Foreign Studies, Natural Science Program. 2016-2019
-- Seoul National University, Department of Computer Science and Engineering. 2019-present (Currently on Military Leave of Absence)
-- ROK Air Force, English Translator. 2021-05-10--2023-02-09
+- **Hankuk Academy of Foreign Studies**, Natural Science Program. 2016-2019
+- **Seoul National University**, Department of Computer Science and Engineering. 2019-present (Currently on Military Leave of Absence)
+- **ROK Air Force**, English Translator/Interpreter at *ROK-US Combined Forces Command*. 2021-05-10/2023-02-09
 
 ## My development environment
 
@@ -62,7 +63,7 @@ SNUCSE 19. I play bass. I code for fun (I guess).
 ## Languages I speak
 
 - Korean (Native)
-- English (Quite fluent)
+- English (Fluent)
 - Japanese (Intermediate)
   
 ## How to reach me
