@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-SNUCSE 19. I play bass. I code for fun (I guess).
+SNUCSE 19. I play bass. I code for fun (I guess). A developer at [Jjalkey](https://jjalkey.com).
 
 ## Fun stuff about me
 
 - I was on a TV show ***[Infinite Challenge](https://youtu.be/YwTQexnpau8?t=321)*** when I was 11. You can see me talk right after the video starts, and do some quiz in the next round. My two younger brothers have also been on TV.
 - I modeled for promotional photos of HAFS (my high school) in 2017.
-- I starred in [***"Off Road Jam"*** MV](https://youtu.be/u6aKcFBRVxA), shot by my brother [seoulthesoloist](https://instagram.com/seoulthesoloist). It's a great song by [Mudd the student](https://instagram.com/muddthestudent), and you can see me in red hair.
+- I starred in [***"Off Road Jam"*** MV](https://youtu.be/u6aKcFBRVxA), directed and shot by my brother [seoulthesoloist](https://instagram.com/seoulthesoloist). It's a great song by [Mudd the student](https://instagram.com/muddthestudent), and you can see me in red hair.
+- I starred in [***"Kamehameha"*** MV](https://youtu.be/iRTuOYb1XmQ), directed by my brother [seoulthesoloist](https://instagram.com/seoulthesoloist). It's a great song by [Balming Tiger](https://balmingtiger.com), and you can see drunk me in the left corner.
+
 
 ## Boring stuff about me
 
 - **Hankuk Academy of Foreign Studies**, Natural Science Program. 2016-2019
-- **Seoul National University**, Department of Computer Science and Engineering. 2019-present (Currently on Military Leave of Absence)
-- **ROK Air Force**, English Translator/Interpreter at *ROK-US Combined Forces Command*. 2021-05-10/2023-02-09
+- **Seoul National University**, Department of Computer Science and Engineering. 2019-2020, 2023-present
+- **ROK Air Force**, English Translator/Interpreter at *C38 Air and Missile Defense Division, ROK-US Combined Forces Command*. 2021-05-10/2023-02-09
 
 ## My development environment
 
@@ -37,34 +39,37 @@ SNUCSE 19. I play bass. I code for fun (I guess).
 
 ## Keyboard layouts I used so far
 
-### Previously
+I have used 5 keyboard layouts so far.
 
-- `Qwerty`: until 2016, 2019-2020
-- `Colemak`: 2020-2021
-- `2-Set Korean`: until 2016
-
-### Currently
-
-- `Dvorak`: 2016-2019, 2021-present
-- `3-Set Korean`: 2016-present
-- I originally changed my layout from `Qwerty` to `Dvorak` in 2016, then had used `Dvorak` until 2019. In 2019, due to issues related to shortcuts, I changed my layout back to `Qwerty` and used it until 2020. Then, in 2020 I converted to `Colemak`, and have used it until 2021. In 2021, I changed back to `Dvorak` again.
+|           | QWERTY | **Dvorak** | Colemak | Dubeolsik | **Sebeolsik** |
+|-----------|:------:|:----------:|:-------:|:---------:|:-------------:|
+| -2016     |    v   |            |         |     v     |               |
+| 2016-2019 |        |      v     |         |           |       v       |
+| 2019-2020 |    v   |            |         |           |       v       |
+| 2020-2021 |        |            |    v    |           |       v       |
+| 2021-Now  |        |      v     |         |           |       v       |
 
 ## Programming languages (or that sort of things) I've used so far
 
 - Assembly (LC-3)
 - C
+- C#
 - C++
+- Go
 - Java
 - LaTeX
 - Python
 - R
+- Rust
 - Scala
+- SQL
+- Swift
 
 ## Languages I speak
 
 - Korean (Native)
 - English (Fluent)
-- Japanese (Intermediate)
+- Japanese (Good)
   
 ## How to reach me
 
